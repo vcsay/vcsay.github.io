@@ -23,7 +23,6 @@ body {
   width: 400px;
   min-width: 400px;
   aspect-ratio: 3 / 4;
-  border-radius: 4px;
   object-fit: cover;
 }
 
