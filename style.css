@@ -76,6 +76,7 @@ h1 {
   .container { flex-direction: column; }
   .headshot { width: 100%; min-width: unset; }
   h1 { font-size: 2rem; }
+  h1, .title {text-align: center;}
   .text { text-align: center; }
   .contact { justify-content: center; }
 }
